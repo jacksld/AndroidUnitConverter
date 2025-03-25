@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="emptyFieldError">Please enter a value</string>
+    <string name="noUnitError">Please select a unit for both fields</string>
+    <string-array name="length_units">
+        <item>Select a unit</item>
+        <item>Meter</item>
+        <item>Millimeter</item>
+        <item>Mile</item>
+        <item>Foot</item>
+    </string-array>
+</resources>
